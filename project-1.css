@@ -2,7 +2,7 @@
 
 header {
   color: #FFE6E6;
-  background: #4C0000;
+  background: #000000;
   font-size: 32pt;
   font-family: "Helvetica Neue";
   text-align: center;
@@ -14,8 +14,12 @@ header {
 
 p {
   font-size: 14pt;
-  padding-left: 20;
-  padding-right: 20;
+  padding-left: 100;
+  padding-right: 100;
+}
+
+img {
+  text-align: center;
 }
 
 #firstParagraph {
